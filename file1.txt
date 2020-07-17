@@ -16,5 +16,3 @@ Three line.
 Four line.
 
 Five line by master.
-
-Line 6 added by mistake.
