@@ -1,4 +1,4 @@
 This file is going to introduce a merge conflict.
 Which will then be solved manually
-I am going to create the same file in demo_branch1 with almost same content to reproduce this issue.
+I am going to create the same file in demo_branch1 and master with almost same content to reproduce this issue.
 Adding a new line in master
