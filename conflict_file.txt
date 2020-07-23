@@ -1,0 +1,3 @@
+This file is going to introduce a merge conflict.
+Which will then be solved manually
+I am going to create the same file in master with almost same content to reproduce this issue.
